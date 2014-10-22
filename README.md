@@ -1,0 +1,1 @@
+This program code simulates the Multi-thread communication problem: Producers and consumers orderly produce and consume the products. Please use g++ compiler, type the command: "g++ HW12.cc -o HW12 -lpthread -fpermissive -w" to compile the source code, and generate the file "HW12". This code is written by Ruofan Kong
